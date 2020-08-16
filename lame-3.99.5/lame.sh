@@ -27,7 +27,7 @@ export CC=$NDK_ROOT/toolchains/llvm/prebuilt/darwin-x86_64/bin/armv7a-linux-andr
 --disable-shared \
 --disable-frontend \
 --enable-static \
---prefix=./armv7a
+--prefix=${PWD}/armv7a
 
 make clean
 make -j8
