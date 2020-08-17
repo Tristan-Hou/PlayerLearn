@@ -1,0 +1,36 @@
+libMpegTPDec/src/tpdec_adif.lo: libMpegTPDec/src/tpdec_adif.cpp \
+  libMpegTPDec/src/tpdec_adif.h libMpegTPDec/include/tpdec_lib.h \
+  libMpegTPDec/include/tp_data.h libSYS/include/machine_type.h \
+  /Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/assert.h \
+  /Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/cdefs.h \
+  /Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/versioning.h \
+  /Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/api-level.h \
+  /Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  libSYS/include/FDK_audio.h libSYS/include/genericStds.h \
+  libFDK/include/FDK_bitstream.h libFDK/include/FDK_bitbuffer.h
+
+libMpegTPDec/src/tpdec_adif.h:
+
+libMpegTPDec/include/tpdec_lib.h:
+
+libMpegTPDec/include/tp_data.h:
+
+libSYS/include/machine_type.h:
+
+/Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/assert.h:
+
+/Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/versioning.h:
+
+/Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/android/api-level.h:
+
+/Users/hou/Library/Android/sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/darwin-x86_64/bin/../sysroot/usr/include/bits/get_device_api_level_inlines.h:
+
+libSYS/include/FDK_audio.h:
+
+libSYS/include/genericStds.h:
+
+libFDK/include/FDK_bitstream.h:
+
+libFDK/include/FDK_bitbuffer.h:
