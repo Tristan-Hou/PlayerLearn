@@ -5,7 +5,7 @@ ARCH=$1
 source config.sh $ARCH
 LIBS_DIR=$(cd `dirname $0`; pwd)/libs/libfdk-aac
 
-cd fdk-aac-2.0.1
+cd ../fdk-aac-0.1.6
 
 
 PREFIX=$LIBS_DIR/$AOSP_ABI
