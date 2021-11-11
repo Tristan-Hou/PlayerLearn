@@ -4,6 +4,7 @@ include $(CLEAR_VARS)
 LOCAL_MODULE := libaudioencoder
 
 LOCAL_SRC_FILES = Mp3Encoder.cpp \
+     Encoder.cpp \
      ./libmp3lame/bitstream.c \
      ./libmp3lame/encoder.c \
      ./libmp3lame/fft.c \
